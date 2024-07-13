@@ -237,7 +237,7 @@ nav:
     - 9.2 &nbsp; 前缀树: chapter_graph/graph_operations.md
     - 9.3 &nbsp; 线段树: chapter_graph/graph_traversal.md
     - 9.4 &nbsp; 并查集: chapter_graph/summary.md
-    
+    - 9.4 &nbsp; AC自动机: chapter_graph/summary.md
   - 第 10 章 &nbsp; 搜索:
     # [icon: material/text-search]
     - chapter_searching/index.md
