@@ -230,6 +230,14 @@ nav:
     - 9.2 &nbsp; 图基础操作: chapter_graph/graph_operations.md
     - 9.3 &nbsp; 图的遍历: chapter_graph/graph_traversal.md
     - 9.4 &nbsp; 小结: chapter_graph/summary.md
+  - 第 9 章 &nbsp; 其他常见数据结构:
+    # [icon: material/graphql]
+    - chapter_graph/index.md
+    - 9.1 &nbsp; 前缀和: chapter_graph/graph.md
+    - 9.2 &nbsp; 前缀树: chapter_graph/graph_operations.md
+    - 9.3 &nbsp; 线段树: chapter_graph/graph_traversal.md
+    - 9.4 &nbsp; 并查集: chapter_graph/summary.md
+    
   - 第 10 章 &nbsp; 搜索:
     # [icon: material/text-search]
     - chapter_searching/index.md
