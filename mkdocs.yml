@@ -230,15 +230,6 @@ nav:
     - 9.2 &nbsp; 图基础操作: chapter_graph/graph_operations.md
     - 9.3 &nbsp; 图的遍历: chapter_graph/graph_traversal.md
     - 9.4 &nbsp; 小结: chapter_graph/summary.md
-  - 第 9 章 &nbsp; 其他常见数据结构:
-    # [icon: material/graphql]
-    - chapter_graph/index.md
-    - 9.1 &nbsp; 前缀和: chapter_others/presum.md
-    - 9.2 &nbsp; 前缀树: chapter_others/pre_tree.md
-    - 9.3 &nbsp; 线段树: chapter_others/segment_tree.md
-    - 9.3 &nbsp; 索引树: chapter_others/index_tree.md
-    - 9.4 &nbsp; 并查集: chapter_others/uniset.md
-    - 9.4 &nbsp; AC自动机: chapter_others/ac.md
   - 第 10 章 &nbsp; 搜索:
     # [icon: material/text-search]
     - chapter_searching/index.md
@@ -296,12 +287,29 @@ nav:
     - 15.3 &nbsp; 最大容量问题: chapter_greedy/max_capacity_problem.md
     - 15.4 &nbsp; 最大切分乘积问题: chapter_greedy/max_product_cutting_problem.md
     - 15.5 &nbsp; 小结: chapter_greedy/summary.md
-  - 第 16 章 &nbsp; 附录:
+  - 第 16 章 &nbsp; 其他常见数据结构:
+    # [icon: material/graphql]
+    - chapter_others_datastructure/index.md
+    - 16.1 &nbsp; 前缀和: chapter_others_datastructure/presum.md
+    - 16.2 &nbsp; 前缀树: chapter_others_datastructure/pre_tree.md
+    - 16.3 &nbsp; 线段树: chapter_others_datastructure/segment_tree.md
+    - 16.3 &nbsp; 索引树: chapter_others_datastructure/index_tree.md
+    - 16.4 &nbsp; 并查集: chapter_others_datastructure/uniset.md
+    - 16.4 &nbsp; AC自动机: chapter_others_datastructure/ac.md
+  - 第 17 章 &nbsp; 其他常见算法:
+    # [icon: material/head-heart-outline]
+    - chapter_other_algo/index.md
+    - 17.1 &nbsp; KMP算法: chapter_other_algo/kmp.md
+    - 17.2 &nbsp; 分数背包问题: chapter_other_algo/fractional_knapsack_problem.md
+    - 17.3 &nbsp; 最大容量问题: chapter_other_algo/max_capacity_problem.md
+    - 17.4 &nbsp; 最大切分乘积问题: chapter_other_algochapter_other_algo/max_product_cutting_problem.md
+    - 17.5 &nbsp; 小结: chapter_other_algo/summary.md
+  - 第 18 章 &nbsp; 附录:
     # [icon: material/help-circle-outline]
     - chapter_appendix/index.md
-    - 16.1 &nbsp; 编程环境安装: chapter_appendix/installation.md
-    - 16.2 &nbsp; 一起参与创作: chapter_appendix/contribution.md
-    - 16.3 &nbsp; 术语表: chapter_appendix/terminology.md
+    - 18.1 &nbsp; 编程环境安装: chapter_appendix/installation.md
+    - 18.2 &nbsp; 一起参与创作: chapter_appendix/contribution.md
+    - 18.3 &nbsp; 术语表: chapter_appendix/terminology.md
   - 参考文献:
     - chapter_reference/index.md
   - 纸质书:
