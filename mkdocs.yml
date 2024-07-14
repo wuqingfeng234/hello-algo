@@ -295,7 +295,7 @@ nav:
     - 16.3 &nbsp; 线段树: chapter_others_datastructure/segment_tree.md
     - 16.3 &nbsp; 索引树: chapter_others_datastructure/index_tree.md
     - 16.4 &nbsp; 并查集: chapter_others_datastructure/uniset.md
-    - 16.4 &nbsp; AC自动机: chapter_others_datastructure/ac.md
+    - 16.4 &nbsp; AC自动机: chapter_others_datastructure/AC自动机.md
   - 第 17 章 &nbsp; 其他常见算法:
     # [icon: material/head-heart-outline]
     - chapter_other_algo/index.md
