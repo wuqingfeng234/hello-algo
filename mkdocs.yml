@@ -290,7 +290,10 @@ nav:
   - 第 16 章 &nbsp; 其他常见数据结构:
     # [icon: material/graphql]
     - chapter_others_datastructure/index.md
-    - 16.1 &nbsp; 前缀和: chapter_others_datastructure/presum.md
+    - 16.1 &nbsp; 单调队列: chapter_others_datastructure/单调队列.md
+    - 16.1 &nbsp; 单调栈: chapter_others_datastructure/单调栈.md
+    - 16.1 &nbsp; 哈夫曼树: chapter_others_datastructure/pre_sum.md
+    - 16.1 &nbsp; 前缀和: chapter_others_datastructure/前缀和.md
     - 16.2 &nbsp; 前缀树: chapter_others_datastructure/pre_tree.md
     - 16.3 &nbsp; 线段树: chapter_others_datastructure/segment_tree.md
     - 16.3 &nbsp; 索引树: chapter_others_datastructure/index_tree.md
@@ -299,10 +302,10 @@ nav:
   - 第 17 章 &nbsp; 其他常见算法:
     # [icon: material/head-heart-outline]
     - chapter_other_algo/index.md
-    - 17.1 &nbsp; manacher算法: chapter_other_algo/manacher.md
-    - 17.2 &nbsp; KMP算法: chapter_other_algo/KMP算法.md
+    - 17.1 &nbsp; manacher算法: chapter_other_algo/manacher算法.md
+    - 17.2 &nbsp; kmp算法: chapter_other_algo/kmp算法.md
     - 17.3 &nbsp; mirrors遍历: chapter_other_algo/mirrors遍历.md
-    - 17.4 &nbsp; prim算法: chapter_other_algo/prim.md
+    - 17.4 &nbsp; prim算法: chapter_other_algo/prim算法.md
     - 17.5 &nbsp; 迪瑞克斯拉算法: chapter_other_algo/迪瑞克斯拉算法.md
   - 第 18 章 &nbsp; 附录:
     # [icon: material/help-circle-outline]
